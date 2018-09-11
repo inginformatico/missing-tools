@@ -5,8 +5,10 @@
 # Descripcion: Aplicacion para encontrar pruebas del 
 # paradero desconocido de una persona desaparecida a traves
 # del historial de Google Chrome.
+# Actualizado a python for windows 3.7
 # Autor: Jorge Coronado @JorgeWebsec
 # Autor: Enmanuel Donminguez @Xegami
+# Actualizacion: Juan Torres Ibañez @inginformatico
 # Version: 1.0
 # Licencia GNU v3
 ##############################################################
